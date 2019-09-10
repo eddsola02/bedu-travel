@@ -6,5 +6,10 @@ Este es un proyecto transversal de pruebas para hacer un pequeño e-commerce de 
 
 ## Modo de uso
 
-1 DEscargar
-2 Abrir
+- Descargar
+- Abrir
+
+## Contributors
+
+- @lizzie136
+- eddsola02
